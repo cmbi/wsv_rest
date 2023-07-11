@@ -15,10 +15,10 @@
 
 Create a file named wiws/settings.py containing the following:
 
-  WHATIF_EXECUTABLE_PATH = "<path to a script that runs whatif>"
-  PDB_DIRECTORY_PATH = "<path to directory containing the rcsb pdb files>"
-  PDB_UPLOAD_DIRECTORY_PATH = "<path to directory, for storing uploaded pdb files>"
-  SECRET_KEY = "<any random string>"
+  WHATIF_EXECUTABLE_PATH = "path to a script that runs whatif"
+  PDB_DIRECTORY_PATH = "path to directory containing the rcsb pdb files"
+  PDB_UPLOAD_DIRECTORY_PATH = "path to directory, for storing uploaded pdb files"
+  SECRET_KEY = "any random string"
 
 
 ## RUNNING
